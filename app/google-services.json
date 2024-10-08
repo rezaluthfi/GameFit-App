@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336214932962",
+    "project_id": "gamefit-b7fb9",
+    "storage_bucket": "gamefit-b7fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336214932962:android:b820ce5402cbb1d975cdbb",
+        "android_client_info": {
+          "package_name": "com.example.gamefit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoFpx1zS6F2BrPV3TQfVSP9nOFmRjJR-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
