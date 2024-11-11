@@ -14,8 +14,7 @@ lari/jogging/bersepeda secara langsung.
 aktivitas yang dilakukan pengguna melalui kamera. Aktivitas meliputi gerakan
 workout, seperti push-up, sit-up, dan lain-lain. (Coming Soon)
 - **Database:** Database digunakan untuk menyimpan data-data aktivitas, akun pengguna,
-voucher dan hadiah, dan lainnya. Database adalah koleksi informasi yang
-terstruktur, yang tersimpan di dalam sistem komputer.
+voucher, hadiah, dan lainnya.
 
 ## 🎞️Demo Gamefit App (Youtube)
 #### [Click Here to Watching!](https://youtu.be/rHnLSsruLBA?si=cz4SuLkZ43p8C1Yq)
