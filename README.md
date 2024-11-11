@@ -7,13 +7,13 @@ muda yang bermain game, yang juga ingin membuat perubahan terhadap gaya hidupnya
 terutama dari segi aktivitas fisik.
 
 ## ❇️Technology
-- GPS-based Device Approach: Teknologi GPS (Global Positioning System)
+- **GPS-based Device Approach:** Teknologi GPS (Global Positioning System)
 pada perangkat seperti smartphone digunakan untuk menghitung jarak
 lari/jogging/bersepeda secara langsung.
-- Computer Vision: Computer Vision digunakan sebagai metode verifikasi
+- **Computer Vision:** Computer Vision digunakan sebagai metode verifikasi
 aktivitas yang dilakukan pengguna melalui kamera. Aktivitas meliputi gerakan
 workout, seperti push-up, sit-up, dan lain-lain. (Coming Soon)
-- Database digunakan untuk menyimpan data-data aktivitas, akun pengguna,
+- **Database:** Database digunakan untuk menyimpan data-data aktivitas, akun pengguna,
 voucher dan hadiah, dan lainnya. Database adalah koleksi informasi yang
 terstruktur, yang tersimpan di dalam sistem komputer.
 
