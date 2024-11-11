@@ -1,10 +1,10 @@
 # 📱GameFit Mobile App
-GameFit adalah memberikan rekomendasi aktivitas-aktivitas fisik kepada para gamers,
-dengan virtual reward (hadiah virtual) berupa in-game currency1 yang bisa digunakan untuk
-membeli barang-barang virtual, atau maya, di dalam game. Hadiah diberikan dalam bentuk
-kode voucher yang bisa ditukarkan di dalam game. Aplikasi ini ditargetkan kepada generasi
+GameFit adalah aplikasi yang memberikan rekomendasi aktivitas-aktivitas fisik kepada para gamers
+dengan virtual reward (hadiah virtual) berupa in-game currency yang bisa digunakan untuk
+membeli barang-barang virtual di dalam game. Hadiah diberikan dalam bentuk
+kode voucher yang bisa ditukarkan di dalam game. Aplikasi ini ditargetkan untuk generasi
 muda yang bermain game, yang juga ingin membuat perubahan terhadap gaya hidupnya,
-utamanya dalam segi aktivitas fisik.
+terutama dari segi aktivitas fisik.
 
 ## ❇️Technology
 - GPS-based Device Approach: Teknologi GPS (Global Positioning System)
