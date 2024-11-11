@@ -22,16 +22,17 @@ voucher, hadiah, dan lainnya.
 ## 🖵Screenshoot
 #### Splash and Onboarding
 <div style="display: flex;">
-  <img src="https://drive.google.com/uc?export=view&id=1Pw0XkCCjCbYKQfQ2s_iEyavPtURpkHdr" alt="splash screen" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=10mNQBq6cQHLDmfkHhDCfJvzKSEMLwCL9" alt="splash screen" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1TOhjKarY_mCsHNOzfEADHgU3H3BalqZW" alt="splash screen" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1hSegpjzuWURPf5KX5TDkXll0RoHLm1PN" alt="splash screen" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Pw0XkCCjCbYKQfQ2s_iEyavPtURpkHdr" alt="Splash Screen" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=10mNQBq6cQHLDmfkHhDCfJvzKSEMLwCL9" alt="Onboarding 1" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1TOhjKarY_mCsHNOzfEADHgU3H3BalqZW" alt="Onboarding 2" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1hSegpjzuWURPf5KX5TDkXll0RoHLm1PN" alt="Onboarding 3" width="180"/>
 </div>
 
 #### Register and Login
 <div style="display: flex;">
   <img src="https://drive.google.com/uc?export=view&id=1w-elDjeYcaEXAP2R-WUsb5RnWEw6SEzh" alt="Register" width="180"/>
   <img src="https://drive.google.com/uc?export=view&id=1NSKub5zscpLHn6278esFsP2RS_0c6bjh" alt="Login" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1rrFcUi3IjXNw1I53MEvI544oZ05NxtDY" alt="Reset Password" width="180"/>
 </div>
 
 #### Home
