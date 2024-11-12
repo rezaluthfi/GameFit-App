@@ -17,7 +17,7 @@ workout, seperti push-up, sit-up, dan lain-lain. (Coming Soon)
 voucher, hadiah, dan lainnya.
 
 ## 🎞️Demo Gamefit App (Youtube)
-#### [Click Here to Watching!](https://youtu.be/rHnLSsruLBA?si=cz4SuLkZ43p8C1Yq)
+#### [🔗Click Here to Watching!](https://youtu.be/rHnLSsruLBA?si=cz4SuLkZ43p8C1Yq)
 
 ## 🖵Screenshoot
 #### Splash and Onboarding
