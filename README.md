@@ -22,39 +22,39 @@ voucher, hadiah, dan lainnya.
 ## 🖵Screenshoot
 #### Splash and Onboarding
 <div style="display: flex;">
-  <img src="https://drive.google.com/uc?export=view&id=1Pw0XkCCjCbYKQfQ2s_iEyavPtURpkHdr" alt="Splash Screen" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=10mNQBq6cQHLDmfkHhDCfJvzKSEMLwCL9" alt="Onboarding 1" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1TOhjKarY_mCsHNOzfEADHgU3H3BalqZW" alt="Onboarding 2" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1hSegpjzuWURPf5KX5TDkXll0RoHLm1PN" alt="Onboarding 3" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Pw0XkCCjCbYKQfQ2s_iEyavPtURpkHdr" alt="Splash Screen" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=10mNQBq6cQHLDmfkHhDCfJvzKSEMLwCL9" alt="Onboarding 1" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1TOhjKarY_mCsHNOzfEADHgU3H3BalqZW" alt="Onboarding 2" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1hSegpjzuWURPf5KX5TDkXll0RoHLm1PN" alt="Onboarding 3" width="240"/>
 </div>
 
 #### Register and Login
 <div style="display: flex;">
-  <img src="https://drive.google.com/uc?export=view&id=1w-elDjeYcaEXAP2R-WUsb5RnWEw6SEzh" alt="Register" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1NSKub5zscpLHn6278esFsP2RS_0c6bjh" alt="Login" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1rrFcUi3IjXNw1I53MEvI544oZ05NxtDY" alt="Reset Password" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1w-elDjeYcaEXAP2R-WUsb5RnWEw6SEzh" alt="Register" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1NSKub5zscpLHn6278esFsP2RS_0c6bjh" alt="Login" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1rrFcUi3IjXNw1I53MEvI544oZ05NxtDY" alt="Reset Password" width="240"/>
 </div>
 
 #### Home
 <div style="display: flex;">
-  <img src="https://drive.google.com/uc?export=view&id=1__KfGwUbaO4ry7LWHXbHO5ncgvRVjtiP" alt="Home1" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=14ZmDo2CfqexENr4ATwg74r5uDs1pDo2m" alt="Home2" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1K5MmGWQgFlzZnIMk3GndJjNs2O83RqJQ" alt="Home3" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1__KfGwUbaO4ry7LWHXbHO5ncgvRVjtiP" alt="Home1" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=14ZmDo2CfqexENr4ATwg74r5uDs1pDo2m" alt="Home2" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1K5MmGWQgFlzZnIMk3GndJjNs2O83RqJQ" alt="Home3" width="240"/>
 </div>
 
 #### Activity
 <div style="display: flex;">
-  <img src="https://drive.google.com/uc?export=view&id=1zIHtDTKf7kNvnQNRVDNq4YrqnZGMN-Me" alt="Activity1" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1BlQ24Z3YJU4_t36vP7ZK4yU0_-0WEA2x" alt="Activity2" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1h3o_GeRRIVidu1K8jToTW1vxKsjA4dMZ" alt="Activity3" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=131m3oDdYMRU8vTlvOM6idfLVCtmykZtH" alt="Activity4" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1zIHtDTKf7kNvnQNRVDNq4YrqnZGMN-Me" alt="Activity1" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1BlQ24Z3YJU4_t36vP7ZK4yU0_-0WEA2x" alt="Activity2" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1h3o_GeRRIVidu1K8jToTW1vxKsjA4dMZ" alt="Activity3" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=131m3oDdYMRU8vTlvOM6idfLVCtmykZtH" alt="Activity4" width="240"/>
 </div>
 
 #### Profile
 <div style="display: flex;">
-  <img src="https://drive.google.com/uc?export=view&id=1kUVUcVpRjb1aRQlUietzkJbTL-LlUTEJ" alt="Profile1" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1d33xZXWeLJUuExG8MrRxGtSpbXCIezhI" alt="Profile2" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1rhKvsFjsVnpFcn1sOpaKJasl2NltD5Zr" alt="Profile3" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1nbiVoPADNhL1awqgAbb4Zlf7T-qC-zpB" alt="Profile4" width="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1Wo-pNuIkZiVYNzdjhyAMe5nyHTzdNA-M" alt="Profile5" width="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1kUVUcVpRjb1aRQlUietzkJbTL-LlUTEJ" alt="Profile1" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1d33xZXWeLJUuExG8MrRxGtSpbXCIezhI" alt="Profile2" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1rhKvsFjsVnpFcn1sOpaKJasl2NltD5Zr" alt="Profile3" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1nbiVoPADNhL1awqgAbb4Zlf7T-qC-zpB" alt="Profile4" width="240"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Wo-pNuIkZiVYNzdjhyAMe5nyHTzdNA-M" alt="Profile5" width="240"/>
 </div>
